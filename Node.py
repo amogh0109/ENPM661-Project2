@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-ENPM 661
-Project 2
 
-@author: Nishant Pandey
-UID: 119247556
-"""
 class Node:
     def __init__(self, pos, cost, parent):
         self.pos = pos                      # Position of the node
